@@ -5,7 +5,7 @@ edition = "2024"
 
 [dependencies]
 # il2cpp_rs = {path = "../il2cpp_rs"}
-il2cpp_rs = {version ="0.1.0"}
+il2cpp_rs = {version ="0.1.2"}
 
 
 [lib]
